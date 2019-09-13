@@ -23,5 +23,7 @@ function! UnicodeIt()
   endif
 endfunction
 
+vmap <C-U>u :call UnicodeIt()<cr>
+
 let &cpo = s:save_cpo
 unlet s:save_cpo
