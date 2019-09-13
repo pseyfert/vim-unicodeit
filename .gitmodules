@@ -1,0 +1,3 @@
+[submodule "submodules/unicodeit"]
+	path = submodules/unicodeit
+	url = https://github.com/themightyoarfish/unicodeit.git
